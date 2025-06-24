@@ -3,10 +3,10 @@
 A demonstration of quantum circuit transpilation concepts implemented from scratch.
 
 # Authors
-- Nemanja Todorovic
 - Brandon Dennis
 - Alessandro Rama
 - Leonardo Calderon
+- Nemanja Todorovic
 
 ## 🎯 What This Demonstrates
 
