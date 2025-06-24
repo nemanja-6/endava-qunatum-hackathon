@@ -2,6 +2,12 @@
 
 A demonstration of quantum circuit transpilation concepts implemented from scratch.
 
+# Authors
+- Nemanja Todorovic
+- Brandon Dennis
+- Alessandro Rama
+- Leonardo Calderon
+
 ## 🎯 What This Demonstrates
 
 This simple transpiler shows the **core concepts** behind quantum circuit compilation:
